@@ -1,0 +1,12 @@
+ United State	us.gozaronline.net:2087
+ France	fr.gozaronline.net:2087
+ Germany	gr.gozaronline.net:2087
+ United Kingdom	uk.gozaronline.net:2087
+ Netherland	nl.gozaronline.net:2087
+ Russia	ru.gozaronline.net:2087
+ Finland	fi.gozaronline.net:2087
+ Spain	es.gozaronline.net:2087
+ Portugal	pt.gozaronline.net:2087
+ Italy	it.gozaronline.net:2087
+
+frg
